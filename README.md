@@ -1,4 +1,4 @@
-PaintJS
+#PaintJS
 Painting Board made with VanillaJS
 
 Features
