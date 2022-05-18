@@ -9,5 +9,3 @@ Painting Board made with VanillaJS
 - Change color
 - Fill canvas
 - Save images
-
-[Try it out!](https://mingeonho1.github.io/paintjs/)
